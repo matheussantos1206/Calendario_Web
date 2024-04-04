@@ -11,3 +11,28 @@ h2{
     margin-bottom: 0;
     margin-top: 0;
 }
+.azul {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: LightBlue
+}
+ 
+.verde {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: PaleGreen
+}
+.rosa{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color:LightPink
+}
+.roxo{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color:SlateBlue
+}
