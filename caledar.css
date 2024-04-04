@@ -1,0 +1,13 @@
+table ,td,tr{
+    border: 1px solid black ;
+    border-collapse: collapse;
+    
+}
+.domingo{
+    color:red;
+}
+h2{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
