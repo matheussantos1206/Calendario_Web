@@ -1,8 +1,10 @@
+
 table ,td,tr{
     border: 1px solid black ;
     border-collapse: collapse;
     
 }
+
 .domingo{
     color:red;
 }
@@ -36,3 +38,5 @@ h2{
     display: inline-block;
     background-color:SlateBlue
 }
+
+
